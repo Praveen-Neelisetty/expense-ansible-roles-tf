@@ -1,0 +1,4 @@
+login_user: root
+login_password: ExpenseApp1
+login_host: db-dev.praveen.store
+DB_HOST: db-dev.praveen.store
